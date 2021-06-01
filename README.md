@@ -12,11 +12,12 @@ Other Resources: If you need more, you can check some of these [resourses](https
 
 ## [JavaScript](https://github.com/DivyanshNatani/Introduction_to_Web_Dev/blob/main/javascript.md)
 
-Apart from above resources, I like this playlist to learn HTML + CSS + JS
-https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg
+Apart from above resources, I like this playlist to learn HTML + CSS + JS:
+- https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg
+
 It’s a long playlist (~60 videos, 10-15min each) and I suggest that you can go to a specific video of what you want to learn. (Or you can go through all of them, if you can go x2 :p )
 
-Small breakdown: (Speed *1.5 or *2 whatever suits you)
+Small breakdown: (Speed x1.5 or x2 whatever suits you)
 
 - Video 1-2: Basic Introduction and Installation of VS Code
 - Video 3-12: HTML
