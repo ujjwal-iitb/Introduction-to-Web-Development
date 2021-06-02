@@ -8,7 +8,7 @@ If you have any doubt regarding to anything, feel free to contact me.
 
 ## [HTML, CSS, Bootstrap](https://github.com/DivyanshNatani/Introduction_to_Web_Dev/blob/main/html-css-bootstrap.md)
 
-Other Resources: If you need more, you can check some of these [resourses](https://github.com/DivyanshNatani/Introduction_to_Web_Dev/blob/main/resource.md)
+Other Resources: If you need more, you can check some of these [resourses](https://github.com/DivyanshNatani/Introduction_to_Web_Dev/blob/main/resources.md)
 
 ## [JavaScript](https://github.com/DivyanshNatani/Introduction_to_Web_Dev/blob/main/javascript.md)
 
