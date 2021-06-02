@@ -29,6 +29,6 @@ Small breakdown: (Speed x1.5 or x2 whatever suits you)
 Can ignore further videos of nodeJS and all for now.
 
 
-## [Angular](https://github.com/DivyanshNatani/Introduction_to_Web_Dev/blob/main/javascript.md)
+## [Angular](https://github.com/DivyanshNatani/Introduction_to_Web_Dev/blob/main/angular.md)
 
 
