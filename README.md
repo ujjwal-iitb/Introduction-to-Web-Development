@@ -6,11 +6,11 @@ So lets get started!!
 
 If you have any doubt regarding to anything, feel free to contact me.
 
-## [HTML, CSS, Bootstrap](https://github.com/DivyanshNatani/Introduction_to_Web_Dev/blob/main/html-css-bootstrap.md)
+## [HTML, CSS, Bootstrap](https://github.com/TheOrangeHood/Introduction_to_Web_Dev/blob/main/html-css-bootstrap.md)
 
-Other Resources: If you need more, you can check some of these [resourses](https://github.com/DivyanshNatani/Introduction_to_Web_Dev/blob/main/resources.md)
+Other Resources: If you need more, you can check some of these [resourses](https://github.com/TheOrangeHood/Introduction_to_Web_Dev/blob/main/resources.md)
 
-## [JavaScript](https://github.com/DivyanshNatani/Introduction_to_Web_Dev/blob/main/javascript.md)
+## [JavaScript](https://github.com/TheOrangeHood/Introduction_to_Web_Dev/blob/main/javascript.md)
 
 Apart from above resources, I like this playlist to learn HTML + CSS + JS:
 - https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg
